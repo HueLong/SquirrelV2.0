@@ -33,7 +33,7 @@
         <v-icon color="blue">mdi-dots-horizontal-circle</v-icon> 添加友链
       </div>
       <blockquote>
-        <div>名称：TBSWFGP的个人博客</div>
+        <div>名称：HUELONG的个人博客</div>
         <div>简介：瓜皮小哥</div>
         <div>头像：头像链接</div>
         <div>博客：博客链接</div>
